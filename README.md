@@ -4,9 +4,9 @@
 
 **Что я могу**
 
-- JAVA:https://github.com/Stepashkin63/Netology-diplom.git
+- JAVA: https://github.com/Stepashkin63/Netology-diplom.git
 - Spring framework: https://github.com/Stepashkin63/Spring-Web-Application.git
 
 
 **Сертификат Нетологии**
-* JAVA 
+* JAVA Сертификат JAVA-разработчик.pdf
