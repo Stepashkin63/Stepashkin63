@@ -3,11 +3,11 @@
 
 <h3 align="center">Разработчик на JAVA</h3>
 
-# Вот, что я могу
+### Вот, что я могу
 
 - JAVA: https://github.com/Stepashkin63/Netology-diplom.git
 - Spring framework: https://github.com/Stepashkin63/Spring-Web-Application.git
 
 
-# Сертификат Нетологии
+### Сертификат Нетологии
 * JAVA https://goo.su/u6hstUP
