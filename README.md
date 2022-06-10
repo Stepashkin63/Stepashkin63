@@ -10,4 +10,4 @@
 
 
 ### Сертификат Нетологии
-* JAVA https://github.com/Stepashkin63/Stepashkin63/blob/certificate%20Netology.pdf
+* JAVA https://github.com/Stepashkin63/Stepashkin63/blob/7325cd33e0ca3e07033be746dcc0abecacbe7ffb/certificate%20Netology.pdf
