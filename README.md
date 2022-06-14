@@ -5,13 +5,13 @@
 
 ### Вот, что я могу
 
-# Java:
+### Java:
 
 - [Дипломная работа по JAVA] (https://github.com/Stepashkin63/Netology-diplom)
 
-# Spring framework:
+### Spring framework:
 
-* [CRUD приложение] (https://github.com/Stepashkin63/Spring-CRUD-Application)
+* [CRUD приложение] (https://github.com/Stepashkin63/Spring-CRUD-Application.git)
 * [WEB приложение] (https://github.com/Stepashkin63/Spring-Web-Application)
 
 
