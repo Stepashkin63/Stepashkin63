@@ -6,12 +6,13 @@
 ### Вот, что я могу
 
 ### Java:
+[Дипломная работа по JAVA](https://github.com/Stepashkin63/Netology-diplom)
 
-- [Дипломная работа по JAVA] (https://github.com/Stepashkin63/Netology-diplom)
+
 
 ### Spring framework:
 
-* [CRUD приложение] (https://github.com/Stepashkin63/Spring-CRUD-Application.git)
+* [CRUD приложение] (https://github.com/Stepashkin63/Spring-CRUD-Application)
 * [WEB приложение] (https://github.com/Stepashkin63/Spring-Web-Application)
 
 
