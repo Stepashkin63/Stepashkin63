@@ -6,15 +6,14 @@
 ### Вот, что я могу
 
 ### Java:
-[Дипломная работа по JAVA](https://github.com/Stepashkin63/Netology-diplom)
+- [Дипломная работа по JAVA](https://github.com/Stepashkin63/Netology-diplom)
 
 
 
 ### Spring framework:
-
-[CRUD приложение] (https://github.com/Stepashkin63/Spring-CRUD-Application)
-[WEB приложение] (https://github.com/Stepashkin63/Spring-Web-Application)
+- [CRUD приложение](https://github.com/Stepashkin63/Spring-CRUD-Application)
+- [WEB приложение](https://github.com/Stepashkin63/Spring-Web-Application)
 
 
 ### Сертификат Нетологии
-[JAVA-разработчик] (https://github.com/Stepashkin63/Stepashkin63/blob/7325cd33e0ca3e07033be746dcc0abecacbe7ffb/certificate%20Netology.pdf)
+[JAVA-разработчик](https://github.com/Stepashkin63/Stepashkin63/blob/7325cd33e0ca3e07033be746dcc0abecacbe7ffb/certificate%20Netology.pdf)
