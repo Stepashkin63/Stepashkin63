@@ -5,7 +5,9 @@
 
 ### Вот, что я могу
 
-- JAVA: https://github.com/Stepashkin63/Netology-diplom.git
+- Курсовая работа по JAVA: https://github.com/Stepashkin63/Netology-diplom.git
+- Дипломная работа по JAVA: https://github.com/Stepashkin63/Netology-diplom.git
+
 - Spring framework: https://github.com/Stepashkin63/Spring-Web-Application.git
 
 
