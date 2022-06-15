@@ -1,12 +1,13 @@
 <h1 align="center">Привет, я Демакин Степан</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<h3 align="center">Разработчик на JAVA</h3>
+<h3 align="center">Разработчик на Java</h3>
 
 ### Вот, что я могу
 
 ### Java:
-- [Дипломная работа по JAVA](https://github.com/Stepashkin63/Netology-diplom)
+- [Курсовая работа по Java](https://github.com/Stepashkin63/Converter)
+- [Дипломная работа по Java](https://github.com/Stepashkin63/Netology-diplom)
 
 ### Spring framework:
 - [CRUD приложение](https://github.com/Stepashkin63/Spring-CRUD-Application)
