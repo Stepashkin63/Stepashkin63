@@ -8,6 +8,7 @@
 ### Java:
 - [Курсовая работа по Java](https://github.com/Stepashkin63/Converter)
 - [Дипломная работа по Java](https://github.com/Stepashkin63/Netology-diplom)
+- [Игра "Однорукий бандит" на Android](https://github.com/Stepashkin63/SlotMachine)
 
 ### Spring framework:
 - [CRUD приложение](https://github.com/Stepashkin63/Spring-CRUD-Application)
