@@ -19,3 +19,7 @@
 
 ### Сертификат Нетологии
 [JAVA-разработчик](https://github.com/Stepashkin63/Stepashkin63/blob/7325cd33e0ca3e07033be746dcc0abecacbe7ffb/certificate%20Netology.pdf)
+
+### Диплом Нетологии
+[JAVA-разработчик](https://github.com/Stepashkin63/Stepashkin63/blob/main/img/Diplom%20Netology.jpg)
+[Приложение](https://github.com/Stepashkin63/Stepashkin63/blob/main/img/Diploma%20Supplement.jpg)
